@@ -1,1 +1,1 @@
-# all-things-cryptgraphy
+# all-things-cryptography
